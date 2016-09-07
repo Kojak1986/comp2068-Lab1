@@ -26,8 +26,8 @@
       <file leaf-file-name="lab1.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+            <state relative-caret-position="330">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -150,12 +150,12 @@
       <option name="presentableId" value="Default" />
       <updated>1473274722261</updated>
       <workItem from="1473274724525" duration="158000" />
-      <workItem from="1473275176730" duration="338000" />
+      <workItem from="1473275176730" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="496000" />
+    <option name="totallyTimeSpent" value="809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="43" width="1373" height="837" extended-state="0" />
@@ -198,8 +198,8 @@
     <entry file="file://$PROJECT_DIR$/comp2068-lab1.txt" />
     <entry file="file://$PROJECT_DIR$/lab1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>

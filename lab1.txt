@@ -14,3 +14,10 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 - The first will show this file being pushed.  The second will show the change you made online.  The 3rd will show the change you made to this file on your computer.
 
 This will be my first change!!!
+
+And now for my final commit, please enjoy this on the spot poem by Karl Kovacs
+
+Roses are red,
+And when gifted are meant,
+This course and prof kick ass
+Thats worth at least 90 percent!!
